@@ -1,0 +1,9 @@
+com\example\company\CompanyApplication.class
+com\example\company\libraries\model\Client$ClientBuilder.class
+com\example\company\libraries\controllers\ClientController.class
+com\example\company\libraries\exceptions\ClientNotFoundException.class
+com\example\company\libraries\repositories\ClientRepository.class
+com\example\company\libraries\services\ClientService.class
+com\example\company\libraries\model\LoadDatabase.class
+com\example\company\libraries\controllers\ClientNotFoundAdvice.class
+com\example\company\libraries\model\Client.class
